@@ -29,3 +29,10 @@ Include the umbrella header:
 ```cpp
 #include <indie_shared_dsp/indie_shared_dsp.h>
 ```
+
+## Roadmap
+
+This module is part of the wider Indie suite — see
+[indie-doubler's docs/ROADMAP.md](https://github.com/FXDecroix/indie-doubler/blob/main/docs/ROADMAP.md)
+for the multi-repo plan (indie-doubler, indie-shared-dsp, indie-plugin-template) and current
+phase status.
