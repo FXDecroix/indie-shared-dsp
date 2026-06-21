@@ -20,6 +20,7 @@
 #include <juce_dsp/juce_dsp.h>
 
 #include "dsp/OnePoleFilter.h"
+#include "dsp/DelayLine.h"
 #include "dsp/EnvelopeFollower.h"
 #include "dsp/StereoField.h"
 #include "dsp/SaturationStage.h"

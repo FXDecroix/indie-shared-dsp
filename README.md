@@ -6,6 +6,7 @@ a [JUCE module](https://docs.juce.com/master/tutorial_create_projucer_basic_plug
 ## Contents
 
 - `OnePoleFilter` — single-pole low/high-pass filter
+- `DelayLine` — fractional delay line with feedback (echo/slapback building block)
 - `EnvelopeFollower` — attack/release envelope follower
 - `StereoField` — stereo width/pan utilities
 - `SaturationStage` — waveshaping saturation/drive stage
